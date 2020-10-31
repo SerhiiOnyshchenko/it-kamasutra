@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/it-kamasutra/static/css/main.f5ecd746.chunk.css",
+    "main.css": "/it-kamasutra/static/css/main.f73443cb.chunk.css",
     "main.js": "/it-kamasutra/static/js/main.bdc96f63.chunk.js",
     "main.js.map": "/it-kamasutra/static/js/main.bdc96f63.chunk.js.map",
     "runtime-main.js": "/it-kamasutra/static/js/runtime-main.38077467.js",
@@ -16,14 +16,14 @@
     "index.html": "/it-kamasutra/index.html",
     "static/css/3.decb33b2.chunk.css.map": "/it-kamasutra/static/css/3.decb33b2.chunk.css.map",
     "static/css/4.acdc5dfc.chunk.css.map": "/it-kamasutra/static/css/4.acdc5dfc.chunk.css.map",
-    "static/css/main.f5ecd746.chunk.css.map": "/it-kamasutra/static/css/main.f5ecd746.chunk.css.map",
+    "static/css/main.f73443cb.chunk.css.map": "/it-kamasutra/static/css/main.f73443cb.chunk.css.map",
     "static/js/2.df19306d.chunk.js.LICENSE.txt": "/it-kamasutra/static/js/2.df19306d.chunk.js.LICENSE.txt",
     "static/media/icon.png": "/it-kamasutra/static/media/icon.09313742.png"
   },
   "entrypoints": [
     "static/js/runtime-main.38077467.js",
     "static/js/2.df19306d.chunk.js",
-    "static/css/main.f5ecd746.chunk.css",
+    "static/css/main.f73443cb.chunk.css",
     "static/js/main.bdc96f63.chunk.js"
   ]
 }
