@@ -1,0 +1,19 @@
+
+.inputRed{
+  border: 2px solid red;
+}
+
+.divError {
+  position: absolute;
+  bottom: -3px;
+    right: 55px;
+  color: red;
+  font-size: 16px;
+}
+.divWarning {
+  position: absolute;
+  bottom: -3px;
+    right: 55px;
+  font-size: 16px;
+    color: red;
+}

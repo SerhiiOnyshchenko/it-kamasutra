@@ -1,0 +1,65 @@
+
+.img01{
+  height: 500px;
+  width: 100%;
+}
+.img{
+ position: relative;
+}
+
+.avatar{
+position: absolute;
+bottom: 0;
+  display: grid;
+  grid-template-areas: 
+  'av de';
+  grid-template-rows: auto 1fr;
+  grid-template-columns: 2fr 10fr;
+  grid-gap: 10px;
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.493);
+  color: white;
+}
+
+.av{
+  grid-area: av;
+  text-align: center;
+}
+.av>img{
+ 
+  width: 300px;height: 300px;
+  border-radius: 50%;
+}
+
+.de{
+  padding: 10px;
+  font-size: 20px;
+  border: 1px solid wheat;
+  border-radius: 10px;
+  grid-area: de;
+}
+
+.name{
+  display: block;
+  text-align: center;
+  padding-bottom: 10px;
+  margin: 0 auto;
+  font-size: 54px;
+  font-weight: bold;
+  text-transform: capitalize;
+
+}
+.info{
+  display: flex;
+  justify-content: space-between;
+}
+.about{
+  flex: 0 0 70%;
+  background-color: rgba(248, 228, 248, 0.781);
+  border-radius: 10px;
+
+  text-align: center;
+  color: black;
+
+}
+

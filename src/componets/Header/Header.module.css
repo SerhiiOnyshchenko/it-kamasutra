@@ -1,0 +1,21 @@
+.header{
+  grid-area: h;
+      background: #231F20;
+  display: flex;justify-content: space-between;
+  padding: 0 10px;
+}
+.header img{
+  height: 100%;
+}
+.loginBlock{
+display: block;
+font-size: 24px;
+padding-top: 10px;
+color: white;
+font-weight: bold;
+}
+.login {
+  display: block;
+font-size: 24px;
+padding-top: 10px;
+}
